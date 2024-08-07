@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    display: flex;
+    background-color: #000000;
+}
+.left-container{
+    width: 25vw;
+    padding: 3px;
+}
+.right-container{
+    width: 75vw;
+    padding: 3px;
+    /* border: 1px solid rgb(229, 255, 0); */
+
+}
+.invert{
+    filter: invert(1);
+}

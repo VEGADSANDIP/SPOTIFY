@@ -1,0 +1,252 @@
+.right-header{
+    display: flex;
+    gap: 50vw;
+    background-color: #121212;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    margin: 0px;
+}
+.login-button button{
+    margin: 14px;
+    padding: 15px;
+    border-radius: 100px;
+}
+.login-button button a{
+    text-decoration: none;
+    color: black;
+    font-size: medium;
+    font-weight: bold;
+}
+.left-right-svg{
+    margin: 14px;
+    padding: 15px;
+    background-color: black;
+    border-radius: 50px;
+}
+.SignUp{
+    background-color: #121212;
+    color: rgb(255, 255, 255);
+}
+.popular-list{
+    height: 88.2vh;
+    overflow: scroll;
+}
+
+/* popular artist */
+.artist{
+    display: flex;
+    gap: 55vw;
+    background-color: #121212;
+    padding: 18px;
+    align-items: center;
+}
+.show-all a{
+    text-decoration: none;
+    font-size: large;
+    color: white;
+}
+.popular-artist a{
+    text-decoration: none;
+    font-size:xx-large;
+    color: white;
+    font-weight: 900;
+}
+.artist-box{
+    display: flex;
+    background-color: #121212;
+}
+.box1{
+    padding-top: 10px;
+    background-color: #242424;
+    color: white;
+    width: 181px;
+    padding-bottom: 10px;
+}
+.box1-img img{
+    border-radius: 50%;
+    height: 163px;
+    width: 149px;
+    padding-left: 15px;   
+}
+.box1 span{
+    display: flex;
+    margin-left: 15px;
+    margin-bottom: 10px;
+}
+.artist-name{
+    font-size: larger;
+    font-weight: bold;
+}
+
+/* popular albums */
+.albums{
+    display: flex;
+    gap: 53.5vw;
+    background-color: #121212;
+    padding: 18px;
+    align-items: center;
+}
+.show-all a{
+    text-decoration: none;
+    font-size: large;
+    color: white;
+}
+.popular-albums a{
+    text-decoration: none;
+    font-size:xx-large;
+    color: white;
+    font-weight: 900;
+}
+.albums-box{
+    display: flex; 
+    background-color: #242424;
+}
+.box2{
+    padding-top: 10px;
+    background-color: #242424;
+    color: white;
+    width: 181px;
+    padding-bottom: 10px;
+}
+.box2-img{
+    margin: 15px;
+    height: 165px;
+}
+.box2-img img{
+    height: 163px;
+    width: 149px;
+}
+.albums-name{
+    font-size: larger;
+    font-weight: bold;
+    margin-left: 15px;
+    margin-bottom: 10px;
+}
+.box2 a{
+    color: white;
+    text-decoration: none;
+}
+.albums-link{
+    margin-left: 15px;
+    width: 149px;
+    margin-top: 10px;
+}
+
+/* trending episode */
+.episodes{
+    display: flex;
+    gap: 52.6vw;
+    background-color: #121212;
+    padding: 18px;
+    align-items: center;
+}
+.show-all a{
+    text-decoration: none;
+    font-size: large;
+    color: white;
+}
+.trending-episode a{
+    text-decoration: none;
+    font-size:xx-large;
+    color: white;
+    font-weight: 900;
+}
+.episodes-box{
+    background-color: #242424;
+    display: flex; 
+}
+.box3{
+    background-color: #242424;
+    color: white;
+    /* border: 1px solid rgb(35, 255, 2); */
+    width: 181px;
+    padding-bottom: 10px;
+}
+.box3-img{
+    margin: 15px;
+    height: 165px;
+}
+.box3-img img{
+    height: 163px;
+    width: 149px;
+}
+
+/* popular radio */
+.radio{
+    display: flex;
+    gap: 55vw;
+    background-color: #121212;
+    padding: 18px;
+    align-items: center;
+}
+.show-all a{
+    text-decoration: none;
+    font-size: large;
+    color: white;
+}
+.popular-radio a{
+    text-decoration: none;
+    font-size:xx-large;
+    color: white;
+    font-weight: 900;
+}
+.radio-box{
+    background-color: #242424; 
+    display: flex; 
+}
+.box4{
+    background-color: #242424;
+    color: white;
+    /* border: 1px solid rgb(35, 255, 2); */
+    width: 181px;
+    padding-bottom: 10px;
+}
+.box4-img{
+    margin: 15px;
+    height: 165px;
+}
+.box4-img img{
+    height: 163px;
+    width: 149px;
+}
+
+
+/* Featured Chart */
+.chart{
+    display: flex;
+    gap: 55vw;
+    background-color: #121212;
+    padding: 18px;
+    align-items: center;
+}
+.show-all a{
+    text-decoration: none;
+    font-size: large;
+    color: white;
+}
+.popular-chart a{
+    text-decoration: none;
+    font-size:xx-large;
+    color: white;
+    font-weight: 900;
+}
+.chart-box{
+    background-color: #242424; 
+    display: flex; 
+}
+.box5{
+    background-color: #242424;
+    color: white;
+    /* border: 1px solid rgb(35, 255, 2); */
+    width: 181px;
+    padding-bottom: 10px;
+}
+.box5-img{
+    margin: 15px;
+    height: 165px;
+}
+.box5-img img{
+    height: 163px;
+    width: 149px;
+}
+
